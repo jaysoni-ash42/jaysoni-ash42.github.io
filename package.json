@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://shloksomani.github.io/react-portfolio/",
+  "homepage": "https://jaysono-ash42.github.io/",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "gh-pages": "^2.2.0",
@@ -18,7 +18,7 @@
     "typed.js": "^2.0.10"
   },
   "scripts": {
-    "predeploy": "npm run build",
+    "predeploy": "yarn build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",

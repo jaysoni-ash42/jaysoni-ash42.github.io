@@ -14,7 +14,6 @@ class About extends React.Component {
           porcentage: "90%",
           value: "90"
         },
-        { id: "PHP_skill", content: "PHP", porcentage: "70%", value: "70" },
         {
           id: "ReactJS_skill",
           content: "ReactJS",
@@ -22,39 +21,39 @@ class About extends React.Component {
           value: "80"
         },
         {
-          id: "Python_skill",
-          content: "Python",
-          porcentage: "75%",
-          value: "75"
+          id: "NextJs_skill",
+          content: "NextJS",
+          porcentage: "65%",
+          value: "65"
         },
         {
-          id: "VanillaJS_skill",
-          content: "VanillaJS",
-          porcentage: "85%",
-          value: "85"
+          id: "VueJs_skill",
+          content: "VueJS (NextJS)",
+          porcentage: "40%",
+          value: "40"
         },
         {
-          id: "Wordpress_skill",
-          content: "Wordpress",
-          porcentage: "80%",
-          value: "80"
+          id: "Nodejs (express)",
+          content: "Nodejs (express)",
+          porcentage: "40%",
+          value: "40"
         }
       ],
       about_me: [
         {
           id: "first-p-about",
           content:
-            "Lorem ipsum pariatur consectetur laboris occaecat nulla aliqua irure ad deserunt duis. Eiusmod nulla cupidatat labore sint sit aute dolore irure nostrud ut incididunt. Anim laborum reprehenderit labore magna ut dolore quis irure. Labore ea duis deserunt ullamco irure fugiat deserunt ut nisi ea minim proident. Nisi consectetur do non magna duis aliqua minim minim veniam. In occaecat minim qui consequat elit mollit consectetur non id tempor. Amet adipisicing occaecat tempor culpa quis est duis."
+            "Hello and thanks for visiting my profile. I am a Full Stack Web Developer  and mostly I am passionate on web coding. I’m quite expert in using coding and markup languages like:Hypertext markup language (HTML)Cascading Style Sheet Javascript, Typescript I have completed my graduation in Computer Application and also done many courses related to web designing, coding, and programming. My 1 year experience of Job helped me to understand the business tricks. Now I can easily cope up with the business market and understand the consumers’ needs."
         },
         {
           id: "second-p-about",
           content:
-            "Lorem ipsum pariatur consectetur laboris occaecat nulla aliqua irure ad deserunt duis. Eiusmod nulla cupidatat labore sint sit aute dolore irure nostrud ut incididunt. Anim laborum reprehenderit labore magna ut dolore quis irure. Labore ea duis deserunt ullamco irure fugiat deserunt ut nisi ea minim proident. Nisi consectetur do non magna duis aliqua minim minim veniam. In occaecat minim qui consequat elit mollit consectetur non id tempor. Amet adipisicing occaecat tempor culpa quis est duis."
+            "Learning Programmer [React, React-native, Nodejs, Hasura/Graphql,Testing with Jest]Always willing to learn new technologies."
         },
         {
           id: "third-p-about",
           content:
-            "Lorem ipsum pariatur consectetur laboris occaecat nulla aliqua irure ad deserunt duis. Eiusmod nulla cupidatat labore sint sit aute dolore irure nostrud ut incididunt. Anim laborum reprehenderit labore magna ut dolore quis irure. Labore ea duis deserunt ullamco irure fugiat deserunt ut nisi ea minim proident. Nisi consectetur do non magna duis aliqua minim minim veniam. In occaecat minim qui consequat elit mollit consectetur non id tempor. Amet adipisicing occaecat tempor culpa quis est duis."
+            "Passionate to Learn Technology and have a good exposure on Mobile Development as well using (Java Android Native Development),Learning Dart and React Native"
         }
       ]
     };
